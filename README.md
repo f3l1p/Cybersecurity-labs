@@ -24,12 +24,12 @@ This repository demonstrates:
 ## Repository Structure
 
 cybersecurity-labs  
-├── lab1  
-│   |-- README.md 
-├── lab2  
-│   |-- README.md  
-├── lab3  
-|   |-- README.md  
+├── lab1
+│ └── README.md
+├── lab2
+│ └── README.md
+├── lab3
+│ └── README.md 
 
 Each directory contains its own README.md documenting:
 - Target environment
